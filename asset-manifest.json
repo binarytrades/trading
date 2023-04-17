@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trading/static/css/main.db3c1dd4.css",
-    "main.js": "/trading/static/js/main.8711e874.js",
+    "main.js": "/trading/static/js/main.65341c61.js",
     "static/js/787.76010706.chunk.js": "/trading/static/js/787.76010706.chunk.js",
     "static/media/RobotoCondensed-Regular.ttf": "/trading/static/media/RobotoCondensed-Regular.d1f19e1609d0d5ebc467.ttf",
     "static/media/Exo2.0-Bold.otf": "/trading/static/media/Exo2.0-Bold.2b03218984ae27391f0e.otf",
@@ -93,11 +93,11 @@
     "static/media/ch.svg": "/trading/static/media/ch.e9d32dbd645960a9aa370ec21b24d93b.svg",
     "static/media/jp.svg": "/trading/static/media/jp.6cbaa4cceded85733af5b4e8af255a23.svg",
     "main.db3c1dd4.css.map": "/trading/static/css/main.db3c1dd4.css.map",
-    "main.8711e874.js.map": "/trading/static/js/main.8711e874.js.map",
+    "main.65341c61.js.map": "/trading/static/js/main.65341c61.js.map",
     "787.76010706.chunk.js.map": "/trading/static/js/787.76010706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db3c1dd4.css",
-    "static/js/main.8711e874.js"
+    "static/js/main.65341c61.js"
   ]
 }
